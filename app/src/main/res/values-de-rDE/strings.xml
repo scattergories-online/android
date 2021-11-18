@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stadt Land Fluss Online</string>
+    <string name="screen_home">Home</string>
+    <string name="screen_discover">Entdecken</string>
+    <string name="screen_profile">Profil</string>
+    <string name="screen_login">Login</string>
+    <string name="game_card_created_by">"Erstellt von: "</string>
+    <string name="game_card_categories">Kategorien</string>
+    <string name="game_card_players">"Spieler: "</string>
+    <string name="game_card_join_game">Spiel Beitreten</string>
+</resources>

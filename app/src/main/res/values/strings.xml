@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScattergoriesOnline</string>
+    <string name="screen_home">Home</string>
+    <string name="screen_discover">Discover Games</string>
+    <string name="screen_profile">Profile</string>
+    <string name="screen_login">Login</string>
+    <string name="game_card_created_by">Created by: </string>
+    <string name="game_card_categories">Categories</string>
+    <string name="game_card_players">Players: </string>
+    <string name="game_card_join_game">Join Game</string>
+</resources>

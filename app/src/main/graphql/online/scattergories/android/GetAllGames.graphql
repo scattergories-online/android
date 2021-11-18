@@ -1,0 +1,24 @@
+query GetAllGames($languages: [String!]) {
+  games(where: {language: {_in: $languages}}) {
+    id
+    max_members
+    updated_at
+    created_at
+    categories {
+      category {
+        display_name
+        id
+      }
+    }
+    language
+    creator {
+      username
+      id
+    }
+    players_aggregate {
+      aggregate {
+        count
+      }
+    }
+  }
+}
